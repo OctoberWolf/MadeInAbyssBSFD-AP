@@ -47,7 +47,7 @@ Connecting to a Multiworld:
 ---------------------
 Hosting a Multiworld:
 ---------------------
-1. Either download and use the default MIA_APWorld.yaml file  
+1. Either download the .yaml here or generate a new one  
 2. Edit the .yaml to your preferences and drop it in the players folder like normal  
 
 ------------
@@ -57,8 +57,9 @@ Extra Info:
 2.  Items are only recieved in the abyss  
 3.  Progressive whistles are required to proceed to the next layer  
 &nbsp;&nbsp;&nbsp;&nbsp;        Progressive whistles update correctly in logic, but the gameplay update requires you to be in Orth and open your menu... I think?  
-5.  There is a specific key required to enter Ido Front Internal and face off with Bondrewd  
-6.  The game clears when you beat the final boss  
+4.  There is a specific key required to enter Ido Front Internal and face off with Bondrewd, called "Ido Front Key"  
+5.  The game clears when you beat the final boss
+6.  Apologies, at the moment this mod doesn't use in-game UI. I would like to fix this someday, but for now you must rely on the launcher or other AP tools
 
 
 
