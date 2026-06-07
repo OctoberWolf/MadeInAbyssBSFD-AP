@@ -5,7 +5,7 @@ Archipelago mod for Made In Abyss Binary Star Falling into Darkness
 Setup Guide:
 ------------
 1.  Download the **APWorld** called "MadeInAbyssBSFD" and unzip it  
-2.  Place the contents of APWorld into your archipelago installation.  
+2.  Place the contents into your archipelago installation.  
 &nbsp;&nbsp;&nbsp;&nbsp;        The file path should be:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Archipelago/lib/worlds/MadeInAbyssBSFD
 
