@@ -39,7 +39,7 @@ Connecting to a Multiworld:
 9.  The game directory should be automatically detected, but if it isn't, double check that everything is setup correctly  
 &nbsp;&nbsp;&nbsp;&nbsp;        You can also Register the game and select the file:  
 &nbsp;&nbsp;&nbsp;&nbsp;        **(x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64\MadeInAbyss-Win64-Shipping.exe**  
-&nbsp;&nbsp;&nbsp;&nbsp;        Make sure you select the correct executable located in the Win64 folder of the game directory, it should be the Shipping version  
+&nbsp;&nbsp;&nbsp;&nbsp;        Make sure you select the correct executable located in the Win64 folder as shown in the file path above  
 7.  Launch the game from the launcher, start a new game  
 &nbsp;&nbsp;&nbsp;&nbsp;        It should automatically connect when you start a new game  
 &nbsp;&nbsp;&nbsp;&nbsp;        If not you can try pressing the connect button manually, but __*you must either load a file or start a new game to connect*__  
