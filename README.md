@@ -58,7 +58,8 @@ Extra Info/Known Issues:
 2.  Items are only recieved in the abyss  
 3.  Progressive whistles are required to proceed to the next layer. Blue for the 2nd layer, Moon for the 3rd, etc  
 &nbsp;&nbsp;&nbsp;&nbsp;        Progressive whistles update correctly in logic, but the gameplay update requires you to be in Orth and open your menu... I think?  
-4.  There is a specific key required to enter Ido Front Internal and face off with Bondrewd, called "Ido Front Key"  
+4.  There is a specific key required to enter Ido Front Internal and face off with Bondrewd, called "Ido Front Key"
+&nbsp;&nbsp;&nbsp;&nbsp;        This is not a real item and it won't be added to your in game inventory. It is just a flag that will let you enter Ido Front
 5.  The game clears when you beat the final boss
 6.  Apologies, at the moment this mod doesn't use in-game UI. I would like to fix this someday, but for now you must rely on the launcher or other AP tools to keep track of progress
 
