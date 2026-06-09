@@ -1,5 +1,6 @@
 # MadeInAbyssAP
 Archipelago mod for Made In Abyss Binary Star Falling into Darkness
+Make sure you have run the game at least once before modding it so that initial files are created
 
 ------------
 Setup Guide:
