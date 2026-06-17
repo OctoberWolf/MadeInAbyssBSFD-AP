@@ -12,18 +12,19 @@ Setup Guide:
 
   
 3.  Download the latest release of UE4SS from nexus mods, found here:  
-&nbsp;&nbsp;&nbsp;&nbsp;        https://www.nexusmods.com/madeinabyssbinarystarfallingintodarkness/mods/4?tab=files  
+&nbsp;&nbsp;&nbsp;&nbsp;        https://www.nexusmods.com/madeinabyssbinarystarfallingintodarkness/mods/4?tab=files
+&nbsp;&nbsp;&nbsp;&nbsp;        You do not need to install vortex or the   Made in Abyss: Binary Star Falling into Darkness game extension  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Note: You are welcome to use other versions of UE4SS, but this one is compatible with the game  
-4.  Extract the contents of UE4SS into your game directory found here for steam users:  
+5.  Extract the contents of UE4SS into your game directory found here for steam users:  
 &nbsp;&nbsp;&nbsp;&nbsp;        C:\Program Files (x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64  
 
 
-5.  Now download the mod folder MadeInAbyssMod and extract it  
-6.  Place the folder **Mods** inside your Made in Abyss installation.  
+6.  Now download the mod folder MadeInAbyssMod and extract it  
+7.  Place the folder **Mods** inside your Made in Abyss installation.  
 &nbsp;&nbsp;&nbsp;&nbsp;        Default path for steam should be:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        C:\Program Files (x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64\  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        **Replace files in destination**  
-7.  This mod is only for the Deep in Abyss Gamemode  
+8.  This mod is only for the Deep in Abyss Gamemode  
 
 ---------------------------
 Connecting to a Multiworld:
