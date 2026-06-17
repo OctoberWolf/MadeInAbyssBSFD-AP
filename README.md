@@ -44,7 +44,7 @@ Connecting to a Multiworld:
 &nbsp;&nbsp;&nbsp;&nbsp;        Make sure you select the correct executable located in the Win64 folder as shown in the file path above  
 7.  Launch the game from the launcher, start a new game  
 &nbsp;&nbsp;&nbsp;&nbsp;        It should automatically connect when you start a new game  
-&nbsp;&nbsp;&nbsp;&nbsp;        If not you can try pressing the connect button manually, but __*you must either load a file or start a new game to connect*__  
+&nbsp;&nbsp;&nbsp;&nbsp;        If not, you can try pressing the connect button manually, but __*you must either load a file or start a new game to connect*__  
 
 ---------------------
 Hosting a Multiworld:
