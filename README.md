@@ -12,7 +12,7 @@ Setup Guide:
 
   
 3.  Download the latest release of UE4SS from nexus mods, found here:  
-&nbsp;&nbsp;&nbsp;&nbsp;        https://www.nexusmods.com/madeinabyssbinarystarfallingintodarkness/mods/4?tab=files
+&nbsp;&nbsp;&nbsp;&nbsp;        https://www.nexusmods.com/madeinabyssbinarystarfallingintodarkness/mods/4?tab=files  
 &nbsp;&nbsp;&nbsp;&nbsp;        You do not need to install vortex or the   Made in Abyss: Binary Star Falling into Darkness game extension  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Note: You are welcome to use other versions of UE4SS, but this one is compatible with the game  
 5.  Extract the contents of UE4SS into your game directory found here for steam users:  
