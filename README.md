@@ -3,7 +3,7 @@ Archipelago mod for Made In Abyss Binary Star Falling into Darkness
 Make sure you have run the game at least once before applying this mod so that initial files are created  
 
 ------------
-Setup Guide:
+Windows Setup Guide:
 ------------
 1.  Download the **APWorld** called "MadeInAbyssBSFD" and unzip it  
 2.  Place the contents into your archipelago installation.  
@@ -25,6 +25,25 @@ Setup Guide:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        C:\Program Files (x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64\  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        **Replace files in destination**  
 8.  This mod is only for the Deep in Abyss Gamemode  
+
+------------
+Linux Guide Courtesy of tacosquare dev:  
+------------
+1.  install mia bsfd without proton  
+2.  = launch the game at least once like this  
+3.  download ue4ss and put it into the games directory under madeinabyss-bsfd/binaries/win64
+4.  launch proton tricks under the made in abyss directory  
+5.  select "select the default wineprefix" and click ok  
+6.  select "run winecfg" and click ok
+7.  click onto libraries at the top  
+8.  in "new override for library" type "dwmapi" without the "" and click add  
+9.  if the override says "native, bultin" it should be working
+10.  go to the launch options for the game and put in (WINEDLLOVERRIDES="dwmapi=n,b") without the ()
+11.  install the bsfd archi mod into the mods file made by ue4ss and replace in file
+12.  add the ap_dsfdlauncher.exe to steam as a non steam game for es of use
+13.  run the ap launcher and register your game (you should only need to click the button to go back a folder twice to get to the madeinabyss-win64-shipping.exe under the win64 file)
+14.  launch the game from the ap launcher and it should autoconnect
+15.  enter the abyss and complete the first story mission before attempting to get any items
 
 ---------------------------
 Connecting to a Multiworld:
@@ -63,24 +82,3 @@ Extra Info/Known Issues:
 &nbsp;&nbsp;&nbsp;&nbsp;        This is not a real item, it won't be added to your in game inventory. It is just a flag that will let you enter Ido Front
 5.  The game clears when you beat the final boss
 6.  Apologies, at the moment this mod doesn't use in-game UI. I would like to fix this someday, but for now you must rely on the launcher or other AP tools to keep track of progress
-
-------------
-Linux Guide Courtesy of tacosquare dev:  
-------------
-1.  install mia bsfd without proton  
-2.  = launch the game at least once like this  
-3.  download ue4ss and put it into the games directory under madeinabyss-bsfd/binaries/win64
-4.  launch proton tricks under the made in abyss directory  
-5.  select "select the default wineprefix" and click ok  
-6.  select "run winecfg" and click ok
-7.  click onto libraries at the top  
-8.  in "new override for library" type "dwmapi" without the "" and click add  
-9.  if the override says "native, bultin" it should be working
-10.  go to the launch options for the game and put in (WINEDLLOVERRIDES="dwmapi=n,b") without the ()
-11.  install the bsfd archi mod into the mods file made by ue4ss and replace in file
-12.  add the ap_dsfdlauncher.exe to steam as a non steam game for es of use
-13.  run the ap launcher and register your game (you should only need to click the button to go back a folder twice to get to the madeinabyss-win64-shipping.exe under the win64 file)
-14.  launch the game from the ap launcher and it should autoconnect
-15.  enter the abyss and complete the first story mission before attempting to get any items
-
-
