@@ -64,8 +64,6 @@ Extra Info/Known Issues:
 5.  The game clears when you beat the final boss
 6.  Apologies, at the moment this mod doesn't use in-game UI. I would like to fix this someday, but for now you must rely on the launcher or other AP tools to keep track of progress
 
-
-
 ------------
 Linux Guide Courtesy of tacosquare dev:  
 ------------
